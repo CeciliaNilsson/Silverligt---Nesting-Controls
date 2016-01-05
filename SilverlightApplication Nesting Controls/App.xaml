@@ -1,0 +1,15 @@
+﻿<Application xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+             x:Class="SilverlightApplication_Nesting_Controls.App"
+             >
+    <Application.Resources>
+        <Style TargetType="ListBoxItem">
+            <Setter Property="Background"
+                        Value="#FFCDD2D6"
+                    />
+            <Setter Property="Margin"
+                    Value="1"/>
+
+        </Style>
+    </Application.Resources>
+</Application>

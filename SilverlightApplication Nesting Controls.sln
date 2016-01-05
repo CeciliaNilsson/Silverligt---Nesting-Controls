@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverlightApplication Nesting Controls", "SilverlightApplication Nesting Controls\SilverlightApplication Nesting Controls.csproj", "{54E49E55-0F3A-47BD-938E-1417E32C12FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverlightApplication Nesting Controls.Web", "SilverlightApplication Nesting Controls.Web\SilverlightApplication Nesting Controls.Web.csproj", "{795C2D4E-10BE-4D66-A772-B721B6037D68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54E49E55-0F3A-47BD-938E-1417E32C12FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54E49E55-0F3A-47BD-938E-1417E32C12FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54E49E55-0F3A-47BD-938E-1417E32C12FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54E49E55-0F3A-47BD-938E-1417E32C12FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{795C2D4E-10BE-4D66-A772-B721B6037D68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{795C2D4E-10BE-4D66-A772-B721B6037D68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{795C2D4E-10BE-4D66-A772-B721B6037D68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{795C2D4E-10BE-4D66-A772-B721B6037D68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
